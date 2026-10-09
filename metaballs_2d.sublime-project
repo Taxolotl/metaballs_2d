@@ -1,0 +1,38 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+		},
+		{
+			"path": "C:\\odin\\core",
+		},
+		{
+			"path": "C:\\odin\\base",
+		},
+		{
+			"path": "C:\\odin\\vendor\\sdl2",
+		},
+		{
+			"path": "C:\\odin\\vendor\\box2d"
+		},
+	],
+	"build_systems": 
+	[
+		{
+			"name": "Odin",
+			"cmd": "odin run .",
+			"file_regex": "^(.+)\\(([0-9]+):([0-9]+)\\) (.+)$",
+		}
+	],
+	"settings":
+	{
+		"LSP":
+		{
+			"odin":
+			{
+				"enabled": true,
+			},
+		},
+	},
+}

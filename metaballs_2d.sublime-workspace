@@ -1,0 +1,803 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"mouse_y"
+			],
+			[
+				"SCREEN",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SCREE",
+				"SCREEN_WIDTH"
+			],
+			[
+				"SCR",
+				"SCREEN_WIDTH"
+			],
+			[
+				"Mouse",
+				"MOUSEBUTTONUP"
+			],
+			[
+				"MOUSE",
+				"MOUSEBUTTONDOWN"
+			],
+			[
+				"blend",
+				"BLEND"
+			],
+			[
+				"gl",
+				"gl_FragCoord"
+			],
+			[
+				"dele",
+				"DeleteShader(shader: u32)"
+			],
+			[
+				"FRAGMENT",
+				"FRAGMENT_SHADER"
+			],
+			[
+				"GL_SET",
+				"gl_set_proc_address(p: rawptr, name: cstring)"
+			],
+			[
+				"GL",
+				"GLcontextFlag"
+			],
+			[
+				"DrawArra",
+				"DrawArrays(mode: u32, first: i32, count: i32)"
+			],
+			[
+				"screen_",
+				"screen_y"
+			],
+			[
+				"pixel",
+				"pixel_y"
+			],
+			[
+				"RGBA",
+				"RGBA8888"
+			],
+			[
+				"CreateTexture",
+				"CreateTexture(renderer: ^Renderer, format: PixelFormatEnum, access: TextureAccess, w, h: c.int) -> ^Texture"
+			],
+			[
+				"wall",
+				"wall_body"
+			],
+			[
+				"body_getSha",
+				"Body_GetShapes(bodyId: BodyId, shapeArray: []ShapeId) -> []ShapeId"
+			],
+			[
+				"center",
+				"center_y"
+			],
+			[
+				"RenderDrawPoint",
+				"RenderDrawPoint(renderer: ^Renderer, x, y: c.int) -> c.int"
+			],
+			[
+				"bo",
+				"body_def"
+			],
+			[
+				"rand",
+				"math/rand"
+			],
+			[
+				"createCi",
+				"CreateCircleShape(bodyId: BodyId, #by_ptr def: ShapeDef, #by_ptr circle: Circle) -> ShapeId"
+			],
+			[
+				"body",
+				"BodyId"
+			],
+			[
+				"is_timer",
+				"is_timer_started(timer: ^Timer)"
+			],
+			[
+				"S",
+				"s"
+			],
+			[
+				"start",
+				"start_ticks"
+			],
+			[
+				"pau",
+				"paused_ticks"
+			],
+			[
+				"sta",
+				"start_ticks"
+			],
+			[
+				"st",
+				"started"
+			],
+			[
+				"pause",
+				"paused_ticks"
+			],
+			[
+				"paus",
+				"paused_ticks"
+			],
+			[
+				"null",
+				"nullWorldId"
+			],
+			[
+				"worl",
+				"world_id"
+			],
+			[
+				"screen",
+				"SCREEN_WIDTH"
+			],
+			[
+				"SetRen",
+				"SetRenderDrawColor(renderer: ^Renderer, r, g, b, a: u8) -> c.int"
+			],
+			[
+				"SetRenderDraw",
+				"SetRenderDrawColor(renderer: ^Renderer, r, g, b, a: u8) -> c.int"
+			],
+			[
+				"SetRenderDr",
+				"SetRenderDrawColor(renderer: ^Renderer, r, g, b, a: u8) -> c.int"
+			],
+			[
+				"SetRenderDra",
+				"SetRenderDrawColor(renderer: ^Renderer, r, g, b, a: u8) -> c.int"
+			],
+			[
+				"debu",
+				"debug(args: ꓸꓸany, sep := \" \", location := #caller_location)"
+			],
+			[
+				"debug",
+				"debug(args: ꓸꓸany, sep := \" \", location := #caller_location)"
+			],
+			[
+				"fl",
+				"InitFlags"
+			],
+			[
+				"init",
+				"Init(flags: InitFlags) -> InitFlags"
+			],
+			[
+				"sdl",
+				"sdl2/image"
+			],
+			[
+				"a",
+				"key_press_surfaces"
+			],
+			[
+				"Ke",
+				"key_press_surfaces"
+			],
+			[
+				"Key",
+				"KEY_PRESS_SURFACE_UP"
+			],
+			[
+				"KEY",
+				"KEY_PRESS_SURFACE_UP"
+			],
+			[
+				"surf",
+				"surface2"
+			],
+			[
+				"sur",
+				"surface2"
+			],
+			[
+				"CreateWindow",
+				"CreateWindow(title: cstring, x, y, w, h: c.int, flags: WindowFlags) -> ^Window"
+			],
+			[
+				"Ini",
+				"Init(flags: InitFlags) -> c.int"
+			],
+			[
+				"LogOut",
+				"LogSetOutputFunction(callback: LogOutputFunction, userdata: rawptr)"
+			],
+			[
+				"LogPrio",
+				"LogSetAllPriority(priority: LogPriority)"
+			],
+			[
+				"CATEGO",
+				"LogCategory"
+			],
+			[
+				"LogPr",
+				"LogSetPriority(category: c.int, priority: LogPriority)"
+			],
+			[
+				"Init",
+				"Init(flags: InitFlags) -> c.int"
+			],
+			[
+				"indi",
+				"indices_byte_size"
+			],
+			[
+				"vertex",
+				"vertex_buf"
+			],
+			[
+				"verte",
+				"vertex_attrs"
+			],
+			[
+				"Ve",
+				"Vertex_Data"
+			],
+			[
+				"GPUVertex",
+				"GPUVertexBufferDescription"
+			],
+			[
+				"num_ver",
+				"num_vertex_buffers"
+			],
+			[
+				"matrix4_Rota",
+				"matrix4_rotate_f32(angle_radians: f32, v: Vector3f32) -> Matrix4f32"
+			],
+			[
+				"matrix4_translat",
+				"matrix4_translate_f32(v: Vector3f32) -> Matrix4f32"
+			],
+			[
+				"GPUColorTarg",
+				"GPUColorTargetInfo"
+			],
+			[
+				"CreateGPUPip",
+				"CreateGPUGraphicsPipeline(device: ^GPUDevice, #by_ptr createinfo: GPUGraphicsPipelineCreateInfo) -> ^GPUGraphicsPipeline"
+			],
+			[
+				"ver",
+				"vert_shader_code"
+			],
+			[
+				"Verte",
+				"VertexShaderOutput"
+			],
+			[
+				"SV_",
+				"SV_Position"
+			],
+			[
+				"Event",
+				"PollEvent(event: ^Event) -> bool"
+			],
+			[
+				"windo",
+				"window_size"
+			],
+			[
+				"dep",
+				"depth_texture_format"
+			],
+			[
+				"GpuTextureSuppo",
+				"GPUTextureSupportsFormat(device: ^GPUDevice, format: GPUTextureFormat, type: GPUTextureType, usage: GPUTextureUsageFlags) -> bool"
+			],
+			[
+				"GPUText",
+				"GPUTextureFormat"
+			],
+			[
+				"SDR",
+				"SDR_LINEAR"
+			],
+			[
+				"CreateGPUDevice",
+				"CreateGPUDevice(format_flags: GPUShaderFormat, debug_mode: bool, name: cstring) -> ^GPUDevice"
+			],
+			[
+				"create_logg",
+				"create_console_logger(lowest := Level.Debug, opt := Default_Console_Logger_Opts, ident := \"\", allocator := context.allocator) -> Logger"
+			],
+			[
+				"initFlag",
+				"InitFlags"
+			],
+			[
+				"glfw",
+				"glfw_extensions_count"
+			],
+			[
+				"glfwex",
+				"glfw_extension_count"
+			],
+			[
+				"Instance",
+				"CreateInstance"
+			],
+			[
+				"Api",
+				"API_VERSION_1_4"
+			],
+			[
+				"engin",
+				"pEngineName"
+			],
+			[
+				"Appl",
+				"pApplicationName"
+			],
+			[
+				"Destro",
+				"DestroyWindow(window: WindowHandle)"
+			],
+			[
+				"WI",
+				"window"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.odin",
+			"redo_stack":
+			[
+				[
+					100,
+					1,
+					"cut",
+					null,
+					"AQAAAOsaAAAAAAAALhsAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADrGgAAAAAAAOsaAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 7692,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"lsp_apply_text_document_edit",
+					{
+						"edits":
+						[
+							{
+								"newText": "package main\r\n\r\nimport \"base:runtime\"\r\nimport \"core:log\"\r\nimport \"core:math/rand\"\r\nimport \"core:strings\"\r\nimport gl \"vendor:OpenGL\"\r\nimport b2 \"vendor:box2d\"\r\nimport sdl \"vendor:sdl2\"\r\n\r\nSCREEN_WIDTH :: 1280\r\nSCREEN_HEIGHT :: 720\r\nSCREEN_FPS :: 60\r\nSCREEN_TICKS_PER_FRAME :: 1000 / SCREEN_FPS\r\nBODY_COUNT :: 300\r\nSCALE :: 50.0\r\nWORLD_WIDTH :: f32(SCREEN_WIDTH) / SCALE\r\nWORLD_HEIGHT :: f32(SCREEN_HEIGHT) / SCALE\r\nMIN_RADIUS :: 0.1\r\nMAX_RADIUS :: 0.275\r\nMOUSE_STRENGTH :: 20.0\r\n\r\napp: Application_Data\r\n\r\nvertex_source := #load(\"shader.vert\", string)\r\nfragment_source := #load(\"shader.frag\", string)\r\n\r\nApplication_Data :: struct {\r\n\twindow:     ^sdl.Window,\r\n\tworld_id:   b2.WorldId,\r\n\tbodies:     [BODY_COUNT]b2.BodyId,\r\n\tshapes:     [BODY_COUNT]b2.ShapeId,\r\n\tgl_context: sdl.GLContext,\r\n\tvao:        u32,\r\n\tmouse_pos:  b2.Vec2,\r\n\tmouse_down: bool,\r\n}\r\n\r\nsdl_log :: proc \"c\" (\r\n\tuserdata: rawptr,\r\n\tcategory: sdl.LogCategory,\r\n\tpriority: sdl.LogPriority,\r\n\tmessage: cstring,\r\n) {\r\n\tcontext = (transmute(^runtime.Context)userdata)^\r\n\tlevel: log.Level\r\n\r\n\tswitch priority {\r\n\tcase .NUM, .DEFAULT, .VERBOSE, .DEBUG:\r\n\t\tlevel = .Debug\r\n\tcase .INFO:\r\n\t\tlevel = .Info\r\n\tcase .WARN:\r\n\t\tlevel = .Warning\r\n\tcase .ERROR:\r\n\t\tlevel = .Error\r\n\tcase .CRITICAL:\r\n\t\tlevel = .Fatal\r\n\t}\r\n\r\n\tlog.logf(level, \"SDL {}: {}\", category, message)\r\n}\r\n\r\nget_assert :: proc(ok: bool, name: string, get: proc \"cdecl\" () -> cstring) {\r\n\tif !ok do log.panicf(\"%v error: %v\", name, get())\r\n}\r\n\r\nsdl_assert :: proc(ok: bool) {\r\n\tget_assert(ok, \"SDL\", sdl.GetError)\r\n}\r\n\r\ninit :: proc() {\r\n\t@(static) sdl_log_context: runtime.Context\r\n\tsdl_log_context = context\r\n\tsdl_log_context.logger.options -= {.Short_File_Path, .Line, .Procedure}\r\n\tsdl.LogSetAllPriority(.VERBOSE)\r\n\tsdl.LogSetOutputFunction(sdl_log, &sdl_log_context)\r\n\r\n\tlog.debug(\"Initializing SDL...\")\r\n\r\n\tsdl_assert(sdl.Init({.VIDEO}) == 0)\r\n\r\n\tsdl.GL_SetAttribute(.CONTEXT_MAJOR_VERSION, 3)\r\n\tsdl.GL_SetAttribute(.CONTEXT_MINOR_VERSION, 3)\r\n\tsdl.GL_SetAttribute(.CONTEXT_PROFILE_MASK, i32(sdl.GLprofile.CORE))\r\n\r\n\tapp.window = sdl.CreateWindow(\r\n\t\t\"Window\",\r\n\t\tsdl.WINDOWPOS_UNDEFINED,\r\n\t\tsdl.WINDOWPOS_UNDEFINED,\r\n\t\tSCREEN_WIDTH,\r\n\t\tSCREEN_HEIGHT,\r\n\t\t{.SHOWN, .OPENGL},\r\n\t); sdl_assert(app.window != nil)\r\n\r\n\tapp.gl_context = sdl.GL_CreateContext(app.window); sdl_assert(app.gl_context != nil)\r\n\r\n\tgl.load_up_to(3, 3, sdl.gl_set_proc_address)\r\n\r\n\tgl.GenVertexArrays(1, &app.vao)\r\n\r\n\tgl.Enable(gl.BLEND)\r\n\tgl.BlendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA)\r\n\r\n\tlog.debug(\"Initializing simulation...\")\r\n\r\n\tworld_def := b2.DefaultWorldDef()\r\n\tworld_def.gravity = {0, -9.8}\r\n\tapp.world_id = b2.CreateWorld(world_def)\r\n\r\n\tfloor_body_def := b2.DefaultBodyDef()\r\n\tfloor_body_def.type = .staticBody\r\n\tfloor_body_def.position = {0, -WORLD_HEIGHT / 2.0}\r\n\tfloor_body := b2.CreateBody(app.world_id, floor_body_def)\r\n\tfloor_shape_def := b2.DefaultShapeDef()\r\n\tfloor_polygon := b2.MakeBox(WORLD_WIDTH / 2, 0.1)\r\n\tfloor := b2.CreatePolygonShape(floor_body, floor_shape_def, floor_polygon)\r\n\r\n\tceiling_body_def := b2.DefaultBodyDef()\r\n\tceiling_body_def.type = .staticBody\r\n\tceiling_body_def.position = {0, WORLD_HEIGHT / 2.0}\r\n\tceiling_body := b2.CreateBody(app.world_id, ceiling_body_def)\r\n\tceiling_shape_def := b2.DefaultShapeDef()\r\n\tceiling_polygon := b2.MakeBox(WORLD_WIDTH / 2, 0.1)\r\n\tceiling := b2.CreatePolygonShape(ceiling_body, ceiling_shape_def, ceiling_polygon)\r\n\r\n\tleft_wall_body_def := b2.DefaultBodyDef()\r\n\tleft_wall_body_def.type = .staticBody\r\n\tleft_wall_body_def.position = {-WORLD_WIDTH / 2.0, 0}\r\n\tleft_wall_body := b2.CreateBody(app.world_id, left_wall_body_def)\r\n\tleft_wall_shape_def := b2.DefaultShapeDef()\r\n\tleft_wall_polygon := b2.MakeBox(0.1, WORLD_HEIGHT / 2.0)\r\n\tleft_wall := b2.CreatePolygonShape(left_wall_body, left_wall_shape_def, left_wall_polygon)\r\n\r\n\tright_wall_body_def := b2.DefaultBodyDef()\r\n\tright_wall_body_def.type = .staticBody\r\n\tright_wall_body_def.position = {WORLD_WIDTH / 2.0, 0}\r\n\tright_wall_body := b2.CreateBody(app.world_id, right_wall_body_def)\r\n\tright_wall_shape_def := b2.DefaultShapeDef()\r\n\tright_wall_polygon := b2.MakeBox(0.1, WORLD_HEIGHT / 2.0)\r\n\tright_wall := b2.CreatePolygonShape(right_wall_body, right_wall_shape_def, right_wall_polygon)\r\n\r\n\tfor i in 0 ..< BODY_COUNT {\r\n\t\tbody_def := b2.DefaultBodyDef()\r\n\t\tbody_def.type = .dynamicBody\r\n\t\tbody_def.position = {rand.float32() * 2.0 - 1.0, rand.float32() * 2.0 - 1.0}\r\n\t\tapp.bodies[i] = b2.CreateBody(app.world_id, body_def)\r\n\r\n\t\tshape_def := b2.DefaultShapeDef()\r\n\r\n\t\tcircle := b2.Circle {\r\n\t\t\tcenter = {0, 0},\r\n\t\t\tradius = MIN_RADIUS + rand.float32() * (MAX_RADIUS - MIN_RADIUS),\r\n\t\t}\r\n\t\tapp.shapes[i] = b2.CreateCircleShape(app.bodies[i], shape_def, circle)\r\n\t}\r\n}\r\n\r\nmain :: proc() {\r\n\tcontext.logger = log.create_console_logger()\r\n\r\n\tinit()\r\n\r\n\tvertex := compile_shader(gl.VERTEX_SHADER, vertex_source)\r\n\tfragment := compile_shader(gl.FRAGMENT_SHADER, fragment_source)\r\n\r\n\tprogram := gl.CreateProgram()\r\n\r\n\tgl.AttachShader(program, vertex)\r\n\tgl.AttachShader(program, fragment)\r\n\r\n\tgl.LinkProgram(program)\r\n\r\n\tgl.DeleteShader(vertex)\r\n\tgl.DeleteShader(fragment)\r\n\r\n\tball_location := gl.GetUniformLocation(program, \"balls\")\r\n\tradii_location := gl.GetUniformLocation(program, \"radii\")\r\n\r\n\tevent: sdl.Event\r\n\r\n\tlast_ticks := sdl.GetTicks()\r\n\r\n\tfps_timer := new_timer()\r\n\tcap_timer := new_timer()\r\n\r\n\tcounted_frames := u32(0)\r\n\tstart_timer(&fps_timer)\r\n\r\n\tmain_loop: for {\r\n\t\tstart_timer(&cap_timer)\r\n\r\n\t\tfor sdl.PollEvent(&event) {\r\n\t\t\t#partial switch event.type {\r\n\t\t\tcase .QUIT:\r\n\t\t\t\tbreak main_loop\r\n\t\t\tcase .KEYDOWN:\r\n\t\t\t\t#partial switch event.key.keysym.sym {\r\n\t\t\t\tcase .ESCAPE:\r\n\t\t\t\t\tbreak main_loop\r\n\t\t\t\t}\r\n\t\t\tcase .MOUSEBUTTONDOWN:\r\n\t\t\t\tif event.button.button == sdl.BUTTON_LEFT {\r\n\t\t\t\t\tapp.mouse_down = true\r\n\t\t\t\t}\r\n\t\t\tcase .MOUSEBUTTONUP:\r\n\t\t\t\tif event.button.button == sdl.BUTTON_LEFT {\r\n\t\t\t\t\tapp.mouse_down = false\r\n\t\t\t\t}\r\n\t\t\tcase .MOUSEMOTION:\r\n\t\t\t\tmouse_x := f32(event.motion.x)\r\n\t\t\t\tmouse_y := f32(event.motion.y)\r\n\r\n\t\t\t\tapp.mouse_pos = {\r\n\t\t\t\t\t(mouse_x - SCREEN_WIDTH / 2) / SCALE,\r\n\t\t\t\t\t(SCREEN_HEIGHT / 2 - mouse_y) / SCALE,\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t}\r\n\r\n\t\tavg_fps := f32(counted_frames) / (f32(get_time(&fps_timer)) / 1000.0)\r\n\t\tif avg_fps > 2000000 {\r\n\t\t\tavg_fps = 0\r\n\t\t}\r\n\r\n\t\tif app.mouse_down {\r\n\t\t\tfor body in app.bodies {\r\n\t\t\t\tposition := b2.Body_GetPosition(body)\r\n\t\t\t\tdirection := app.mouse_pos - position\r\n\t\t\t\tdistance := b2.Length(direction)\r\n\r\n\t\t\t\tif distance > 0.01 {\r\n\t\t\t\t\tdirection = direction / distance\r\n\t\t\t\t}\r\n\r\n\t\t\t\tforce := direction * MOUSE_STRENGTH\r\n\r\n\t\t\t\tb2.Body_ApplyForceToCenter(body, force, true)\r\n\t\t\t}\r\n\t\t}\r\n\r\n\t\tb2.World_Step(app.world_id, 1 / f32(SCREEN_FPS), 4)\r\n\r\n\t\tpositions: [BODY_COUNT][2]f32\r\n\t\tradii: [BODY_COUNT]f32\r\n\r\n\t\tfor shape, i in app.shapes {\r\n\t\t\tbody := b2.Shape_GetBody(shape)\r\n\t\t\tpos := b2.Body_GetPosition(body)\r\n\r\n\t\t\tpositions[i] = {pos.x * SCALE + SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2 - pos.y * SCALE}\r\n\r\n\t\t\tradii[i] = b2.Shape_GetCircle(shape).radius * SCALE\r\n\t\t}\r\n\r\n\t\tgl.Clear(gl.COLOR_BUFFER_BIT)\r\n\t\tgl.Viewport(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT)\r\n\t\tgl.ClearColor(0.05, 0.05, 0.05, 1.0)\r\n\r\n\t\tgl.UseProgram(program)\r\n\r\n\t\tgl.Uniform2fv(ball_location, BODY_COUNT, &positions[0].x)\r\n\t\tgl.Uniform1fv(radii_location, BODY_COUNT, &radii[0])\r\n\r\n\t\tgl.BindVertexArray(app.vao)\r\n\t\tgl.DrawArrays(gl.TRIANGLES, 0, 3)\r\n\r\n\t\tsdl.GL_SwapWindow(app.window)\r\n\t\tcounted_frames += 1\r\n\r\n\t\tframe_ticks := get_time(&cap_timer)\r\n\t\tif frame_ticks < SCREEN_TICKS_PER_FRAME {\r\n\t\t\tsdl.Delay(SCREEN_TICKS_PER_FRAME - frame_ticks)\r\n\t\t}\r\n\t}\r\n\r\n\texit()\r\n}\r\n\r\ncompile_shader :: proc(type: u32, source: string) -> u32 {\r\n\tshader := gl.CreateShader(type)\r\n\r\n\tcsource := strings.clone_to_cstring(source)\r\n\r\n\tgl.ShaderSource(shader, 1, &csource, nil)\r\n\r\n\tgl.CompileShader(shader)\r\n\r\n\tsuccess: i32\r\n\tgl.GetShaderiv(shader, gl.COMPILE_STATUS, &success)\r\n\r\n\tif success == 0 {\r\n\t\tpanic(\"Shader compilation failed\")\r\n\t}\r\n\treturn shader\r\n}\r\n\r\nexit :: proc() {\r\n\tlog.debug(\"Closing...\")\r\n\r\n\tsdl.DestroyWindow(app.window)\r\n\tapp.window = nil\r\n\r\n\tsdl.Quit()\r\n\r\n\tb2.DestroyWorld(app.world_id)\r\n\tapp.world_id = b2.nullWorldId\r\n}\r\n",
+								"range":
+								{
+									"end":
+									{
+										"character": 0,
+										"line": 308
+									},
+									"start":
+									{
+										"character": 0,
+										"line": 0
+									}
+								}
+							}
+						],
+						"label": "Format on Save"
+					},
+					"AQAAAAAAAAAAAAAATh4AAAAAAABOHgAAcGFja2FnZSBtYWluCgppbXBvcnQgImJhc2U6cnVudGltZSIKaW1wb3J0ICJjb3JlOmxvZyIKaW1wb3J0ICJjb3JlOm1hdGgvcmFuZCIKaW1wb3J0ICJjb3JlOnN0cmluZ3MiCmltcG9ydCBnbCAidmVuZG9yOk9wZW5HTCIKaW1wb3J0IGIyICJ2ZW5kb3I6Ym94MmQiCmltcG9ydCBzZGwgInZlbmRvcjpzZGwyIgoKU0NSRUVOX1dJRFRIIDo6IDEyODAKU0NSRUVOX0hFSUdIVCA6OiA3MjAKU0NSRUVOX0ZQUyA6OiA2MApTQ1JFRU5fVElDS1NfUEVSX0ZSQU1FIDo6IDEwMDAgLyBTQ1JFRU5fRlBTCkJPRFlfQ09VTlQgOjogMzAwClNDQUxFIDo6IDUwLjAKV09STERfV0lEVEggOjogZjMyKFNDUkVFTl9XSURUSCkgLyBTQ0FMRQpXT1JMRF9IRUlHSFQgOjogZjMyKFNDUkVFTl9IRUlHSFQpIC8gU0NBTEUKTUlOX1JBRElVUyA6OiAwLjEKTUFYX1JBRElVUyA6OiAwLjI3NQpNT1VTRV9TVFJFTkdUSCA6OiAyMC4wCgphcHA6IEFwcGxpY2F0aW9uX0RhdGEKCnZlcnRleF9zb3VyY2UgOj0gI2xvYWQoInNoYWRlci52ZXJ0Iiwgc3RyaW5nKQpmcmFnbWVudF9zb3VyY2UgOj0gI2xvYWQoInNoYWRlci5mcmFnIiwgc3RyaW5nKQoKQXBwbGljYXRpb25fRGF0YSA6OiBzdHJ1Y3QgewoJd2luZG93OiAgICAgXnNkbC5XaW5kb3csCgl3b3JsZF9pZDogICBiMi5Xb3JsZElkLAoJYm9kaWVzOiAgICAgW0JPRFlfQ09VTlRdYjIuQm9keUlkLAoJc2hhcGVzOiAgICAgW0JPRFlfQ09VTlRdYjIuU2hhcGVJZCwKCWdsX2NvbnRleHQ6IHNkbC5HTENvbnRleHQsCgl2YW86ICAgICAgICB1MzIsCgltb3VzZV9wb3M6ICBiMi5WZWMyLAoJbW91c2VfZG93bjogYm9vbCwKfQoKc2RsX2xvZyA6OiBwcm9jICJjIiAoCgl1c2VyZGF0YTogcmF3cHRyLAoJY2F0ZWdvcnk6IHNkbC5Mb2dDYXRlZ29yeSwKCXByaW9yaXR5OiBzZGwuTG9nUHJpb3JpdHksCgltZXNzYWdlOiBjc3RyaW5nLAopIHsKCWNvbnRleHQgPSAodHJhbnNtdXRlKF5ydW50aW1lLkNvbnRleHQpdXNlcmRhdGEpXgoJbGV2ZWw6IGxvZy5MZXZlbAoKCXN3aXRjaCBwcmlvcml0eSB7CgljYXNlIC5OVU0sIC5ERUZBVUxULCAuVkVSQk9TRSwgLkRFQlVHOgoJCWxldmVsID0gLkRlYnVnCgljYXNlIC5JTkZPOgoJCWxldmVsID0gLkluZm8KCWNhc2UgLldBUk46CgkJbGV2ZWwgPSAuV2FybmluZwoJY2FzZSAuRVJST1I6CgkJbGV2ZWwgPSAuRXJyb3IKCWNhc2UgLkNSSVRJQ0FMOgoJCWxldmVsID0gLkZhdGFsCgl9CgoJbG9nLmxvZ2YobGV2ZWwsICJTREwge306IHt9IiwgY2F0ZWdvcnksIG1lc3NhZ2UpCn0KCmdldF9hc3NlcnQgOjogcHJvYyhvazogYm9vbCwgbmFtZTogc3RyaW5nLCBnZXQ6IHByb2MgImNkZWNsIiAoKSAtPiBjc3RyaW5nKSB7CglpZiAhb2sgZG8gbG9nLnBhbmljZigiJXYgZXJyb3I6ICV2IiwgbmFtZSwgZ2V0KCkpCn0KCnNkbF9hc3NlcnQgOjogcHJvYyhvazogYm9vbCkgewoJZ2V0X2Fzc2VydChvaywgIlNETCIsIHNkbC5HZXRFcnJvcikKfQoKaW5pdCA6OiBwcm9jKCkgewoJQChzdGF0aWMpIHNkbF9sb2dfY29udGV4dDogcnVudGltZS5Db250ZXh0CglzZGxfbG9nX2NvbnRleHQgPSBjb250ZXh0CglzZGxfbG9nX2NvbnRleHQubG9nZ2VyLm9wdGlvbnMgLT0gey5TaG9ydF9GaWxlX1BhdGgsIC5MaW5lLCAuUHJvY2VkdXJlfQoJc2RsLkxvZ1NldEFsbFByaW9yaXR5KC5WRVJCT1NFKQoJc2RsLkxvZ1NldE91dHB1dEZ1bmN0aW9uKHNkbF9sb2csICZzZGxfbG9nX2NvbnRleHQpCgoJbG9nLmRlYnVnKCJJbml0aWFsaXppbmcgU0RMLi4uIikKCglzZGxfYXNzZXJ0KHNkbC5Jbml0KHsuVklERU99KSA9PSAwKQoKCXNkbC5HTF9TZXRBdHRyaWJ1dGUoLkNPTlRFWFRfTUFKT1JfVkVSU0lPTiwgMykKCXNkbC5HTF9TZXRBdHRyaWJ1dGUoLkNPTlRFWFRfTUlOT1JfVkVSU0lPTiwgMykKCXNkbC5HTF9TZXRBdHRyaWJ1dGUoLkNPTlRFWFRfUFJPRklMRV9NQVNLLCBpMzIoc2RsLkdMcHJvZmlsZS5DT1JFKSkKCglhcHAud2luZG93ID0gc2RsLkNyZWF0ZVdpbmRvdygKCQkiV2luZG93IiwKCQlzZGwuV0lORE9XUE9TX1VOREVGSU5FRCwKCQlzZGwuV0lORE9XUE9TX1VOREVGSU5FRCwKCQlTQ1JFRU5fV0lEVEgsCgkJU0NSRUVOX0hFSUdIVCwKCQl7LlNIT1dOLCAuT1BFTkdMfSwKCSk7IHNkbF9hc3NlcnQoYXBwLndpbmRvdyAhPSBuaWwpCgoJYXBwLmdsX2NvbnRleHQgPSBzZGwuR0xfQ3JlYXRlQ29udGV4dChhcHAud2luZG93KTsgc2RsX2Fzc2VydChhcHAuZ2xfY29udGV4dCAhPSBuaWwpCgoJZ2wubG9hZF91cF90bygzLCAzLCBzZGwuZ2xfc2V0X3Byb2NfYWRkcmVzcykKCglnbC5HZW5WZXJ0ZXhBcnJheXMoMSwgJmFwcC52YW8pCgoJZ2wuRW5hYmxlKGdsLkJMRU5EKQoJZ2wuQmxlbmRGdW5jKGdsLlNSQ19BTFBIQSwgZ2wuT05FX01JTlVTX1NSQ19BTFBIQSkKCglsb2cuZGVidWcoIkluaXRpYWxpemluZyBzaW11bGF0aW9uLi4uIikKCgl3b3JsZF9kZWYgOj0gYjIuRGVmYXVsdFdvcmxkRGVmKCkKCXdvcmxkX2RlZi5ncmF2aXR5ID0gezAsIC05Ljh9CglhcHAud29ybGRfaWQgPSBiMi5DcmVhdGVXb3JsZCh3b3JsZF9kZWYpCgoJZmxvb3JfYm9keV9kZWYgOj0gYjIuRGVmYXVsdEJvZHlEZWYoKQoJZmxvb3JfYm9keV9kZWYudHlwZSA9IC5zdGF0aWNCb2R5CglmbG9vcl9ib2R5X2RlZi5wb3NpdGlvbiA9IHswLCAtV09STERfSEVJR0hUIC8gMi4wfQoJZmxvb3JfYm9keSA6PSBiMi5DcmVhdGVCb2R5KGFwcC53b3JsZF9pZCwgZmxvb3JfYm9keV9kZWYpCglmbG9vcl9zaGFwZV9kZWYgOj0gYjIuRGVmYXVsdFNoYXBlRGVmKCkKCWZsb29yX3BvbHlnb24gOj0gYjIuTWFrZUJveChXT1JMRF9XSURUSCAvIDIsIDAuMSkKCWZsb29yIDo9IGIyLkNyZWF0ZVBvbHlnb25TaGFwZShmbG9vcl9ib2R5LCBmbG9vcl9zaGFwZV9kZWYsIGZsb29yX3BvbHlnb24pCgoJY2VpbGluZ19ib2R5X2RlZiA6PSBiMi5EZWZhdWx0Qm9keURlZigpCgljZWlsaW5nX2JvZHlfZGVmLnR5cGUgPSAuc3RhdGljQm9keQoJY2VpbGluZ19ib2R5X2RlZi5wb3NpdGlvbiA9IHswLCBXT1JMRF9IRUlHSFQgLyAyLjB9CgljZWlsaW5nX2JvZHkgOj0gYjIuQ3JlYXRlQm9keShhcHAud29ybGRfaWQsIGNlaWxpbmdfYm9keV9kZWYpCgljZWlsaW5nX3NoYXBlX2RlZiA6PSBiMi5EZWZhdWx0U2hhcGVEZWYoKQoJY2VpbGluZ19wb2x5Z29uIDo9IGIyLk1ha2VCb3goV09STERfV0lEVEggLyAyLCAwLjEpCgljZWlsaW5nIDo9IGIyLkNyZWF0ZVBvbHlnb25TaGFwZShjZWlsaW5nX2JvZHksIGNlaWxpbmdfc2hhcGVfZGVmLCBjZWlsaW5nX3BvbHlnb24pCgoJbGVmdF93YWxsX2JvZHlfZGVmIDo9IGIyLkRlZmF1bHRCb2R5RGVmKCkKCWxlZnRfd2FsbF9ib2R5X2RlZi50eXBlID0gLnN0YXRpY0JvZHkKCWxlZnRfd2FsbF9ib2R5X2RlZi5wb3NpdGlvbiA9IHstV09STERfV0lEVEggLyAyLjAsIDB9CglsZWZ0X3dhbGxfYm9keSA6PSBiMi5DcmVhdGVCb2R5KGFwcC53b3JsZF9pZCwgbGVmdF93YWxsX2JvZHlfZGVmKQoJbGVmdF93YWxsX3NoYXBlX2RlZiA6PSBiMi5EZWZhdWx0U2hhcGVEZWYoKQoJbGVmdF93YWxsX3BvbHlnb24gOj0gYjIuTWFrZUJveCgwLjEsIFdPUkxEX0hFSUdIVCAvIDIuMCkKCWxlZnRfd2FsbCA6PSBiMi5DcmVhdGVQb2x5Z29uU2hhcGUobGVmdF93YWxsX2JvZHksIGxlZnRfd2FsbF9zaGFwZV9kZWYsIGxlZnRfd2FsbF9wb2x5Z29uKQoKCXJpZ2h0X3dhbGxfYm9keV9kZWYgOj0gYjIuRGVmYXVsdEJvZHlEZWYoKQoJcmlnaHRfd2FsbF9ib2R5X2RlZi50eXBlID0gLnN0YXRpY0JvZHkKCXJpZ2h0X3dhbGxfYm9keV9kZWYucG9zaXRpb24gPSB7V09STERfV0lEVEggLyAyLjAsIDB9CglyaWdodF93YWxsX2JvZHkgOj0gYjIuQ3JlYXRlQm9keShhcHAud29ybGRfaWQsIHJpZ2h0X3dhbGxfYm9keV9kZWYpCglyaWdodF93YWxsX3NoYXBlX2RlZiA6PSBiMi5EZWZhdWx0U2hhcGVEZWYoKQoJcmlnaHRfd2FsbF9wb2x5Z29uIDo9IGIyLk1ha2VCb3goMC4xLCBXT1JMRF9IRUlHSFQgLyAyLjApCglyaWdodF93YWxsIDo9IGIyLkNyZWF0ZVBvbHlnb25TaGFwZShyaWdodF93YWxsX2JvZHksIHJpZ2h0X3dhbGxfc2hhcGVfZGVmLCByaWdodF93YWxsX3BvbHlnb24pCgoJZm9yIGkgaW4gMCAuLjwgQk9EWV9DT1VOVCB7CgkJYm9keV9kZWYgOj0gYjIuRGVmYXVsdEJvZHlEZWYoKQoJCWJvZHlfZGVmLnR5cGUgPSAuZHluYW1pY0JvZHkKCQlib2R5X2RlZi5wb3NpdGlvbiA9IHtyYW5kLmZsb2F0MzIoKSAqIDIuMCAtIDEuMCwgcmFuZC5mbG9hdDMyKCkgKiAyLjAgLSAxLjB9CgkJYXBwLmJvZGllc1tpXSA9IGIyLkNyZWF0ZUJvZHkoYXBwLndvcmxkX2lkLCBib2R5X2RlZikKCgkJc2hhcGVfZGVmIDo9IGIyLkRlZmF1bHRTaGFwZURlZigpCgoJCWNpcmNsZSA6PSBiMi5DaXJjbGUgewoJCQljZW50ZXIgPSB7MCwgMH0sCgkJCXJhZGl1cyA9IE1JTl9SQURJVVMgKyByYW5kLmZsb2F0MzIoKSAqIChNQVhfUkFESVVTIC0gTUlOX1JBRElVUyksCgkJfQoJCWFwcC5zaGFwZXNbaV0gPSBiMi5DcmVhdGVDaXJjbGVTaGFwZShhcHAuYm9kaWVzW2ldLCBzaGFwZV9kZWYsIGNpcmNsZSkKCX0KfQoKbWFpbiA6OiBwcm9jKCkgewoJY29udGV4dC5sb2dnZXIgPSBsb2cuY3JlYXRlX2NvbnNvbGVfbG9nZ2VyKCkKCglpbml0KCkKCgl2ZXJ0ZXggOj0gY29tcGlsZV9zaGFkZXIoZ2wuVkVSVEVYX1NIQURFUiwgdmVydGV4X3NvdXJjZSkKCWZyYWdtZW50IDo9IGNvbXBpbGVfc2hhZGVyKGdsLkZSQUdNRU5UX1NIQURFUiwgZnJhZ21lbnRfc291cmNlKQoKCXByb2dyYW0gOj0gZ2wuQ3JlYXRlUHJvZ3JhbSgpCgoJZ2wuQXR0YWNoU2hhZGVyKHByb2dyYW0sIHZlcnRleCkKCWdsLkF0dGFjaFNoYWRlcihwcm9ncmFtLCBmcmFnbWVudCkKCglnbC5MaW5rUHJvZ3JhbShwcm9ncmFtKQoKCWdsLkRlbGV0ZVNoYWRlcih2ZXJ0ZXgpCglnbC5EZWxldGVTaGFkZXIoZnJhZ21lbnQpCgoJYmFsbF9sb2NhdGlvbiA6PSBnbC5HZXRVbmlmb3JtTG9jYXRpb24ocHJvZ3JhbSwgImJhbGxzIikKCXJhZGlpX2xvY2F0aW9uIDo9IGdsLkdldFVuaWZvcm1Mb2NhdGlvbihwcm9ncmFtLCAicmFkaWkiKQoKCWV2ZW50OiBzZGwuRXZlbnQKCglsYXN0X3RpY2tzIDo9IHNkbC5HZXRUaWNrcygpCgoJZnBzX3RpbWVyIDo9IG5ld190aW1lcigpCgljYXBfdGltZXIgOj0gbmV3X3RpbWVyKCkKCgljb3VudGVkX2ZyYW1lcyA6PSB1MzIoMCkKCXN0YXJ0X3RpbWVyKCZmcHNfdGltZXIpCgoJbWFpbl9sb29wOiBmb3IgewoJCXN0YXJ0X3RpbWVyKCZjYXBfdGltZXIpCgoJCWZvciBzZGwuUG9sbEV2ZW50KCZldmVudCkgewoJCQkjcGFydGlhbCBzd2l0Y2ggZXZlbnQudHlwZSB7CgkJCWNhc2UgLlFVSVQ6CgkJCQlicmVhayBtYWluX2xvb3AKCQkJY2FzZSAuS0VZRE9XTjoKCQkJCSNwYXJ0aWFsIHN3aXRjaCBldmVudC5rZXkua2V5c3ltLnN5bSB7CgkJCQljYXNlIC5FU0NBUEU6CgkJCQkJYnJlYWsgbWFpbl9sb29wCgkJCQl9CgkJCWNhc2UgLk1PVVNFQlVUVE9ORE9XTjoKCQkJCWlmIGV2ZW50LmJ1dHRvbi5idXR0b24gPT0gc2RsLkJVVFRPTl9MRUZUIHsKCQkJCQlhcHAubW91c2VfZG93biA9IHRydWUKCQkJCX0KCQkJY2FzZSAuTU9VU0VCVVRUT05VUDoKCQkJCWlmIGV2ZW50LmJ1dHRvbi5idXR0b24gPT0gc2RsLkJVVFRPTl9MRUZUIHsKCQkJCQlhcHAubW91c2VfZG93biA9IGZhbHNlCgkJCQl9CgkJCWNhc2UgLk1PVVNFTU9USU9OOgoJCQkJbW91c2VfeCA6PSBmMzIoZXZlbnQubW90aW9uLngpCgkJCQltb3VzZV95IDo9IGYzMihldmVudC5tb3Rpb24ueSkKCgkJCQlhcHAubW91c2VfcG9zID0gewoJCQkJCShtb3VzZV94IC0gU0NSRUVOX1dJRFRIIC8gMikgLyBTQ0FMRSwKCQkJCQkoU0NSRUVOX0hFSUdIVCAvIDIgLSBtb3VzZV95KSAvIFNDQUxFLAoJCQkJfQoJCQl9CgkJfQoKCQlhdmdfZnBzIDo9IGYzMihjb3VudGVkX2ZyYW1lcykgLyAoZjMyKGdldF90aW1lKCZmcHNfdGltZXIpKSAvIDEwMDAuMCkKCQlpZiBhdmdfZnBzID4gMjAwMDAwMCB7CgkJCWF2Z19mcHMgPSAwCgkJfQoKCQlpZiBhcHAubW91c2VfZG93biB7CgkJCWZvciBib2R5IGluIGFwcC5ib2RpZXMgewoJCQkJcG9zaXRpb24gOj0gYjIuQm9keV9HZXRQb3NpdGlvbihib2R5KQoJCQkJZGlyZWN0aW9uIDo9IGFwcC5tb3VzZV9wb3MgLSBwb3NpdGlvbgoJCQkJZGlzdGFuY2UgOj0gYjIuTGVuZ3RoKGRpcmVjdGlvbikKCgkJCQlpZiBkaXN0YW5jZSA+IDAuMDEgewoJCQkJCWRpcmVjdGlvbiA9IGRpcmVjdGlvbiAvIGRpc3RhbmNlCgkJCQl9CgoJCQkJZm9yY2UgOj0gZGlyZWN0aW9uICogTU9VU0VfU1RSRU5HVEgKCgkJCQliMi5Cb2R5X0FwcGx5Rm9yY2VUb0NlbnRlcihib2R5LCBmb3JjZSwgdHJ1ZSkKCQkJfQoJCX0KCgkJYjIuV29ybGRfU3RlcChhcHAud29ybGRfaWQsIDEgLyBmMzIoU0NSRUVOX0ZQUyksIDQpCgoJCXBvc2l0aW9uczogW0JPRFlfQ09VTlRdWzJdZjMyCgkJcmFkaWk6IFtCT0RZX0NPVU5UXWYzMgoKCQlmb3Igc2hhcGUsIGkgaW4gYXBwLnNoYXBlcyB7CgkJCWJvZHkgOj0gYjIuU2hhcGVfR2V0Qm9keShzaGFwZSkKCQkJcG9zIDo9IGIyLkJvZHlfR2V0UG9zaXRpb24oYm9keSkKCgkJCXBvc2l0aW9uc1tpXSA9IHtwb3MueCAqIFNDQUxFICsgU0NSRUVOX1dJRFRIIC8gMiwgU0NSRUVOX0hFSUdIVCAvIDIgLSBwb3MueSAqIFNDQUxFfQoKCQkJcmFkaWlbaV0gPSBiMi5TaGFwZV9HZXRDaXJjbGUoc2hhcGUpLnJhZGl1cyAqIFNDQUxFCgkJfQoKCQlnbC5DbGVhcihnbC5DT0xPUl9CVUZGRVJfQklUKQoJCWdsLlZpZXdwb3J0KDAsIDAsIFNDUkVFTl9XSURUSCwgU0NSRUVOX0hFSUdIVCkKCQlnbC5DbGVhckNvbG9yKDAuMDUsIDAuMDUsIDAuMDUsIDEuMCkKCgkJZ2wuVXNlUHJvZ3JhbShwcm9ncmFtKQoKCQlnbC5Vbmlmb3JtMmZ2KGJhbGxfbG9jYXRpb24sIEJPRFlfQ09VTlQsICZwb3NpdGlvbnNbMF0ueCkKCQlnbC5Vbmlmb3JtMWZ2KHJhZGlpX2xvY2F0aW9uLCBCT0RZX0NPVU5ULCAmcmFkaWlbMF0pCgoJCWdsLkJpbmRWZXJ0ZXhBcnJheShhcHAudmFvKQoJCWdsLkRyYXdBcnJheXMoZ2wuVFJJQU5HTEVTLCAwLCAzKQoKCQlzZGwuR0xfU3dhcFdpbmRvdyhhcHAud2luZG93KQoJCWNvdW50ZWRfZnJhbWVzICs9IDEKCgkJZnJhbWVfdGlja3MgOj0gZ2V0X3RpbWUoJmNhcF90aW1lcikKCQlpZiBmcmFtZV90aWNrcyA8IFNDUkVFTl9USUNLU19QRVJfRlJBTUUgewoJCQlzZGwuRGVsYXkoU0NSRUVOX1RJQ0tTX1BFUl9GUkFNRSAtIGZyYW1lX3RpY2tzKQoJCX0KCX0KCglleGl0KCkKfQoKY29tcGlsZV9zaGFkZXIgOjogcHJvYyh0eXBlOiB1MzIsIHNvdXJjZTogc3RyaW5nKSAtPiB1MzIgewoJc2hhZGVyIDo9IGdsLkNyZWF0ZVNoYWRlcih0eXBlKQoKCWNzb3VyY2UgOj0gc3RyaW5ncy5jbG9uZV90b19jc3RyaW5nKHNvdXJjZSkKCglnbC5TaGFkZXJTb3VyY2Uoc2hhZGVyLCAxLCAmY3NvdXJjZSwgbmlsKQoKCWdsLkNvbXBpbGVTaGFkZXIoc2hhZGVyKQoKCXN1Y2Nlc3M6IGkzMgoJZ2wuR2V0U2hhZGVyaXYoc2hhZGVyLCBnbC5DT01QSUxFX1NUQVRVUywgJnN1Y2Nlc3MpCgoJaWYgc3VjY2VzcyA9PSAwIHsKCQlwYW5pYygiU2hhZGVyIGNvbXBpbGF0aW9uIGZhaWxlZCIpCgl9CglyZXR1cm4gc2hhZGVyCn0KCmV4aXQgOjogcHJvYygpIHsKCWxvZy5kZWJ1ZygiQ2xvc2luZy4uLiIpCgoJc2RsLkRlc3Ryb3lXaW5kb3coYXBwLndpbmRvdykKCWFwcC53aW5kb3cgPSBuaWwKCglzZGwuUXVpdCgpCgoJYjIuRGVzdHJveVdvcmxkKGFwcC53b3JsZF9pZCkKCWFwcC53b3JsZF9pZCA9IGIyLm51bGxXb3JsZElkCn0K",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"cut",
+					null,
+					"AQAAALQGAAAAAAAAtAYAAAAAAAAjAAAACgoJbG9nLmRlYnVnKCJJbml0aWFsaXppbmcgU0RMLi4uIik",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADXBgAAAAAAALQGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					85,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJsTAAAAAAAAmxMAAAAAAAAfAAAACgoJbGFzdF90aWNrcyA6PSBzZGwuR2V0VGlja3MoKQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC6EwAAAAAAAJsTAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					89,
+					1,
+					"lsp_apply_text_document_edit",
+					{
+						"edits":
+						[
+							{
+								"newText": "package main\r\n\r\nimport \"base:runtime\"\r\nimport \"core:log\"\r\nimport \"core:math/rand\"\r\nimport \"core:strings\"\r\nimport gl \"vendor:OpenGL\"\r\nimport b2 \"vendor:box2d\"\r\nimport sdl \"vendor:sdl2\"\r\n\r\nSCREEN_WIDTH :: 1280\r\nSCREEN_HEIGHT :: 720\r\nSCREEN_FPS :: 60\r\nSCREEN_TICKS_PER_FRAME :: 1000 / SCREEN_FPS\r\nBODY_COUNT :: 300\r\nSCALE :: 50.0\r\nWORLD_WIDTH :: f32(SCREEN_WIDTH) / SCALE\r\nWORLD_HEIGHT :: f32(SCREEN_HEIGHT) / SCALE\r\nMIN_RADIUS :: 0.1\r\nMAX_RADIUS :: 0.275\r\nMOUSE_STRENGTH :: 20.0\r\n\r\napp: Application_Data\r\n\r\nvertex_source := #load(\"shader.vert\", string)\r\nfragment_source := #load(\"shader.frag\", string)\r\n\r\nApplication_Data :: struct {\r\n\twindow:     ^sdl.Window,\r\n\tworld_id:   b2.WorldId,\r\n\tbodies:     [BODY_COUNT]b2.BodyId,\r\n\tshapes:     [BODY_COUNT]b2.ShapeId,\r\n\tgl_context: sdl.GLContext,\r\n\tvao:        u32,\r\n\tmouse_pos:  b2.Vec2,\r\n\tmouse_down: bool,\r\n}\r\n\r\nsdl_log :: proc \"c\" (\r\n\tuserdata: rawptr,\r\n\tcategory: sdl.LogCategory,\r\n\tpriority: sdl.LogPriority,\r\n\tmessage: cstring,\r\n) {\r\n\tcontext = (transmute(^runtime.Context)userdata)^\r\n\tlevel: log.Level\r\n\r\n\tswitch priority {\r\n\tcase .NUM, .DEFAULT, .VERBOSE, .DEBUG:\r\n\t\tlevel = .Debug\r\n\tcase .INFO:\r\n\t\tlevel = .Info\r\n\tcase .WARN:\r\n\t\tlevel = .Warning\r\n\tcase .ERROR:\r\n\t\tlevel = .Error\r\n\tcase .CRITICAL:\r\n\t\tlevel = .Fatal\r\n\t}\r\n\r\n\tlog.logf(level, \"SDL {}: {}\", category, message)\r\n}\r\n\r\nget_assert :: proc(ok: bool, name: string, get: proc \"cdecl\" () -> cstring) {\r\n\tif !ok do log.panicf(\"%v error: %v\", name, get())\r\n}\r\n\r\nsdl_assert :: proc(ok: bool) {\r\n\tget_assert(ok, \"SDL\", sdl.GetError)\r\n}\r\n\r\ninit :: proc() {\r\n\t@(static) sdl_log_context: runtime.Context\r\n\tsdl_log_context = context\r\n\tsdl_log_context.logger.options -= {.Short_File_Path, .Line, .Procedure}\r\n\tsdl.LogSetAllPriority(.VERBOSE)\r\n\tsdl.LogSetOutputFunction(sdl_log, &sdl_log_context)\r\n\r\n\tsdl_assert(sdl.Init({.VIDEO}) == 0)\r\n\r\n\tsdl.GL_SetAttribute(.CONTEXT_MAJOR_VERSION, 3)\r\n\tsdl.GL_SetAttribute(.CONTEXT_MINOR_VERSION, 3)\r\n\tsdl.GL_SetAttribute(.CONTEXT_PROFILE_MASK, i32(sdl.GLprofile.CORE))\r\n\r\n\tapp.window = sdl.CreateWindow(\r\n\t\t\"Window\",\r\n\t\tsdl.WINDOWPOS_UNDEFINED,\r\n\t\tsdl.WINDOWPOS_UNDEFINED,\r\n\t\tSCREEN_WIDTH,\r\n\t\tSCREEN_HEIGHT,\r\n\t\t{.SHOWN, .OPENGL},\r\n\t); sdl_assert(app.window != nil)\r\n\r\n\tapp.gl_context = sdl.GL_CreateContext(app.window); sdl_assert(app.gl_context != nil)\r\n\r\n\tgl.load_up_to(3, 3, sdl.gl_set_proc_address)\r\n\r\n\tgl.GenVertexArrays(1, &app.vao)\r\n\r\n\tgl.Enable(gl.BLEND)\r\n\tgl.BlendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA)\r\n\r\n\tlog.debug(\"Initializing simulation...\")\r\n\r\n\tworld_def := b2.DefaultWorldDef()\r\n\tworld_def.gravity = {0, -9.8}\r\n\tapp.world_id = b2.CreateWorld(world_def)\r\n\r\n\tfloor_body_def := b2.DefaultBodyDef()\r\n\tfloor_body_def.type = .staticBody\r\n\tfloor_body_def.position = {0, -WORLD_HEIGHT / 2.0}\r\n\tfloor_body := b2.CreateBody(app.world_id, floor_body_def)\r\n\tfloor_shape_def := b2.DefaultShapeDef()\r\n\tfloor_polygon := b2.MakeBox(WORLD_WIDTH / 2, 0.1)\r\n\tfloor := b2.CreatePolygonShape(floor_body, floor_shape_def, floor_polygon)\r\n\r\n\tceiling_body_def := b2.DefaultBodyDef()\r\n\tceiling_body_def.type = .staticBody\r\n\tceiling_body_def.position = {0, WORLD_HEIGHT / 2.0}\r\n\tceiling_body := b2.CreateBody(app.world_id, ceiling_body_def)\r\n\tceiling_shape_def := b2.DefaultShapeDef()\r\n\tceiling_polygon := b2.MakeBox(WORLD_WIDTH / 2, 0.1)\r\n\tceiling := b2.CreatePolygonShape(ceiling_body, ceiling_shape_def, ceiling_polygon)\r\n\r\n\tleft_wall_body_def := b2.DefaultBodyDef()\r\n\tleft_wall_body_def.type = .staticBody\r\n\tleft_wall_body_def.position = {-WORLD_WIDTH / 2.0, 0}\r\n\tleft_wall_body := b2.CreateBody(app.world_id, left_wall_body_def)\r\n\tleft_wall_shape_def := b2.DefaultShapeDef()\r\n\tleft_wall_polygon := b2.MakeBox(0.1, WORLD_HEIGHT / 2.0)\r\n\tleft_wall := b2.CreatePolygonShape(left_wall_body, left_wall_shape_def, left_wall_polygon)\r\n\r\n\tright_wall_body_def := b2.DefaultBodyDef()\r\n\tright_wall_body_def.type = .staticBody\r\n\tright_wall_body_def.position = {WORLD_WIDTH / 2.0, 0}\r\n\tright_wall_body := b2.CreateBody(app.world_id, right_wall_body_def)\r\n\tright_wall_shape_def := b2.DefaultShapeDef()\r\n\tright_wall_polygon := b2.MakeBox(0.1, WORLD_HEIGHT / 2.0)\r\n\tright_wall := b2.CreatePolygonShape(right_wall_body, right_wall_shape_def, right_wall_polygon)\r\n\r\n\tfor i in 0 ..< BODY_COUNT {\r\n\t\tbody_def := b2.DefaultBodyDef()\r\n\t\tbody_def.type = .dynamicBody\r\n\t\tbody_def.position = {rand.float32() * 2.0 - 1.0, rand.float32() * 2.0 - 1.0}\r\n\t\tapp.bodies[i] = b2.CreateBody(app.world_id, body_def)\r\n\r\n\t\tshape_def := b2.DefaultShapeDef()\r\n\r\n\t\tcircle := b2.Circle {\r\n\t\t\tcenter = {0, 0},\r\n\t\t\tradius = MIN_RADIUS + rand.float32() * (MAX_RADIUS - MIN_RADIUS),\r\n\t\t}\r\n\t\tapp.shapes[i] = b2.CreateCircleShape(app.bodies[i], shape_def, circle)\r\n\t}\r\n}\r\n\r\nmain :: proc() {\r\n\tcontext.logger = log.create_console_logger()\r\n\r\n\tinit()\r\n\r\n\tvertex := compile_shader(gl.VERTEX_SHADER, vertex_source)\r\n\tfragment := compile_shader(gl.FRAGMENT_SHADER, fragment_source)\r\n\r\n\tprogram := gl.CreateProgram()\r\n\r\n\tgl.AttachShader(program, vertex)\r\n\tgl.AttachShader(program, fragment)\r\n\r\n\tgl.LinkProgram(program)\r\n\r\n\tgl.DeleteShader(vertex)\r\n\tgl.DeleteShader(fragment)\r\n\r\n\tball_location := gl.GetUniformLocation(program, \"balls\")\r\n\tradii_location := gl.GetUniformLocation(program, \"radii\")\r\n\r\n\tevent: sdl.Event\r\n\r\n\tfps_timer := new_timer()\r\n\tcap_timer := new_timer()\r\n\r\n\tcounted_frames := u32(0)\r\n\tstart_timer(&fps_timer)\r\n\r\n\tmain_loop: for {\r\n\t\tstart_timer(&cap_timer)\r\n\r\n\t\tfor sdl.PollEvent(&event) {\r\n\t\t\t#partial switch event.type {\r\n\t\t\tcase .QUIT:\r\n\t\t\t\tbreak main_loop\r\n\t\t\tcase .KEYDOWN:\r\n\t\t\t\t#partial switch event.key.keysym.sym {\r\n\t\t\t\tcase .ESCAPE:\r\n\t\t\t\t\tbreak main_loop\r\n\t\t\t\t}\r\n\t\t\tcase .MOUSEBUTTONDOWN:\r\n\t\t\t\tif event.button.button == sdl.BUTTON_LEFT {\r\n\t\t\t\t\tapp.mouse_down = true\r\n\t\t\t\t}\r\n\t\t\tcase .MOUSEBUTTONUP:\r\n\t\t\t\tif event.button.button == sdl.BUTTON_LEFT {\r\n\t\t\t\t\tapp.mouse_down = false\r\n\t\t\t\t}\r\n\t\t\tcase .MOUSEMOTION:\r\n\t\t\t\tmouse_x := f32(event.motion.x)\r\n\t\t\t\tmouse_y := f32(event.motion.y)\r\n\r\n\t\t\t\tapp.mouse_pos = {\r\n\t\t\t\t\t(mouse_x - SCREEN_WIDTH / 2) / SCALE,\r\n\t\t\t\t\t(SCREEN_HEIGHT / 2 - mouse_y) / SCALE,\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t}\r\n\r\n\t\tavg_fps := f32(counted_frames) / (f32(get_time(&fps_timer)) / 1000.0)\r\n\t\tif avg_fps > 2000000 {\r\n\t\t\tavg_fps = 0\r\n\t\t}\r\n\r\n\t\tif app.mouse_down {\r\n\t\t\tfor body in app.bodies {\r\n\t\t\t\tposition := b2.Body_GetPosition(body)\r\n\t\t\t\tdirection := app.mouse_pos - position\r\n\t\t\t\tdistance := b2.Length(direction)\r\n\r\n\t\t\t\tif distance > 0.01 {\r\n\t\t\t\t\tdirection = direction / distance\r\n\t\t\t\t}\r\n\r\n\t\t\t\tforce := direction * MOUSE_STRENGTH\r\n\r\n\t\t\t\tb2.Body_ApplyForceToCenter(body, force, true)\r\n\t\t\t}\r\n\t\t}\r\n\r\n\t\tb2.World_Step(app.world_id, 1 / f32(SCREEN_FPS), 4)\r\n\r\n\t\tpositions: [BODY_COUNT][2]f32\r\n\t\tradii: [BODY_COUNT]f32\r\n\r\n\t\tfor shape, i in app.shapes {\r\n\t\t\tbody := b2.Shape_GetBody(shape)\r\n\t\t\tpos := b2.Body_GetPosition(body)\r\n\r\n\t\t\tpositions[i] = {pos.x * SCALE + SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2 - pos.y * SCALE}\r\n\r\n\t\t\tradii[i] = b2.Shape_GetCircle(shape).radius * SCALE\r\n\t\t}\r\n\r\n\t\tgl.Clear(gl.COLOR_BUFFER_BIT)\r\n\t\tgl.Viewport(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT)\r\n\t\tgl.ClearColor(0.05, 0.05, 0.05, 1.0)\r\n\r\n\t\tgl.UseProgram(program)\r\n\r\n\t\tgl.Uniform2fv(ball_location, BODY_COUNT, &positions[0].x)\r\n\t\tgl.Uniform1fv(radii_location, BODY_COUNT, &radii[0])\r\n\r\n\t\tgl.BindVertexArray(app.vao)\r\n\t\tgl.DrawArrays(gl.TRIANGLES, 0, 3)\r\n\r\n\t\tsdl.GL_SwapWindow(app.window)\r\n\t\tcounted_frames += 1\r\n\r\n\t\tframe_ticks := get_time(&cap_timer)\r\n\t\tif frame_ticks < SCREEN_TICKS_PER_FRAME {\r\n\t\t\tsdl.Delay(SCREEN_TICKS_PER_FRAME - frame_ticks)\r\n\t\t}\r\n\t}\r\n\r\n\texit()\r\n}\r\n\r\ncompile_shader :: proc(type: u32, source: string) -> u32 {\r\n\tshader := gl.CreateShader(type)\r\n\r\n\tcsource := strings.clone_to_cstring(source)\r\n\r\n\tgl.ShaderSource(shader, 1, &csource, nil)\r\n\r\n\tgl.CompileShader(shader)\r\n\r\n\tsuccess: i32\r\n\tgl.GetShaderiv(shader, gl.COMPILE_STATUS, &success)\r\n\r\n\tif success == 0 {\r\n\t\tpanic(\"Shader compilation failed\")\r\n\t}\r\n\treturn shader\r\n}\r\n\r\nexit :: proc() {\r\n\tlog.debug(\"Closing...\")\r\n\r\n\tsdl.DestroyWindow(app.window)\r\n\tapp.window = nil\r\n\r\n\tsdl.Quit()\r\n\r\n\tb2.DestroyWorld(app.world_id)\r\n\tapp.world_id = b2.nullWorldId\r\n}\r\n",
+								"range":
+								{
+									"end":
+									{
+										"character": 0,
+										"line": 304
+									},
+									"start":
+									{
+										"character": 0,
+										"line": 0
+									}
+								}
+							}
+						],
+						"label": "Format on Save"
+					},
+					"AQAAAAAAAAAAAAAADB4AAAAAAAAMHgAAcGFja2FnZSBtYWluCgppbXBvcnQgImJhc2U6cnVudGltZSIKaW1wb3J0ICJjb3JlOmxvZyIKaW1wb3J0ICJjb3JlOm1hdGgvcmFuZCIKaW1wb3J0ICJjb3JlOnN0cmluZ3MiCmltcG9ydCBnbCAidmVuZG9yOk9wZW5HTCIKaW1wb3J0IGIyICJ2ZW5kb3I6Ym94MmQiCmltcG9ydCBzZGwgInZlbmRvcjpzZGwyIgoKU0NSRUVOX1dJRFRIIDo6IDEyODAKU0NSRUVOX0hFSUdIVCA6OiA3MjAKU0NSRUVOX0ZQUyA6OiA2MApTQ1JFRU5fVElDS1NfUEVSX0ZSQU1FIDo6IDEwMDAgLyBTQ1JFRU5fRlBTCkJPRFlfQ09VTlQgOjogMzAwClNDQUxFIDo6IDUwLjAKV09STERfV0lEVEggOjogZjMyKFNDUkVFTl9XSURUSCkgLyBTQ0FMRQpXT1JMRF9IRUlHSFQgOjogZjMyKFNDUkVFTl9IRUlHSFQpIC8gU0NBTEUKTUlOX1JBRElVUyA6OiAwLjEKTUFYX1JBRElVUyA6OiAwLjI3NQpNT1VTRV9TVFJFTkdUSCA6OiAyMC4wCgphcHA6IEFwcGxpY2F0aW9uX0RhdGEKCnZlcnRleF9zb3VyY2UgOj0gI2xvYWQoInNoYWRlci52ZXJ0Iiwgc3RyaW5nKQpmcmFnbWVudF9zb3VyY2UgOj0gI2xvYWQoInNoYWRlci5mcmFnIiwgc3RyaW5nKQoKQXBwbGljYXRpb25fRGF0YSA6OiBzdHJ1Y3QgewoJd2luZG93OiAgICAgXnNkbC5XaW5kb3csCgl3b3JsZF9pZDogICBiMi5Xb3JsZElkLAoJYm9kaWVzOiAgICAgW0JPRFlfQ09VTlRdYjIuQm9keUlkLAoJc2hhcGVzOiAgICAgW0JPRFlfQ09VTlRdYjIuU2hhcGVJZCwKCWdsX2NvbnRleHQ6IHNkbC5HTENvbnRleHQsCgl2YW86ICAgICAgICB1MzIsCgltb3VzZV9wb3M6ICBiMi5WZWMyLAoJbW91c2VfZG93bjogYm9vbCwKfQoKc2RsX2xvZyA6OiBwcm9jICJjIiAoCgl1c2VyZGF0YTogcmF3cHRyLAoJY2F0ZWdvcnk6IHNkbC5Mb2dDYXRlZ29yeSwKCXByaW9yaXR5OiBzZGwuTG9nUHJpb3JpdHksCgltZXNzYWdlOiBjc3RyaW5nLAopIHsKCWNvbnRleHQgPSAodHJhbnNtdXRlKF5ydW50aW1lLkNvbnRleHQpdXNlcmRhdGEpXgoJbGV2ZWw6IGxvZy5MZXZlbAoKCXN3aXRjaCBwcmlvcml0eSB7CgljYXNlIC5OVU0sIC5ERUZBVUxULCAuVkVSQk9TRSwgLkRFQlVHOgoJCWxldmVsID0gLkRlYnVnCgljYXNlIC5JTkZPOgoJCWxldmVsID0gLkluZm8KCWNhc2UgLldBUk46CgkJbGV2ZWwgPSAuV2FybmluZwoJY2FzZSAuRVJST1I6CgkJbGV2ZWwgPSAuRXJyb3IKCWNhc2UgLkNSSVRJQ0FMOgoJCWxldmVsID0gLkZhdGFsCgl9CgoJbG9nLmxvZ2YobGV2ZWwsICJTREwge306IHt9IiwgY2F0ZWdvcnksIG1lc3NhZ2UpCn0KCmdldF9hc3NlcnQgOjogcHJvYyhvazogYm9vbCwgbmFtZTogc3RyaW5nLCBnZXQ6IHByb2MgImNkZWNsIiAoKSAtPiBjc3RyaW5nKSB7CglpZiAhb2sgZG8gbG9nLnBhbmljZigiJXYgZXJyb3I6ICV2IiwgbmFtZSwgZ2V0KCkpCn0KCnNkbF9hc3NlcnQgOjogcHJvYyhvazogYm9vbCkgewoJZ2V0X2Fzc2VydChvaywgIlNETCIsIHNkbC5HZXRFcnJvcikKfQoKaW5pdCA6OiBwcm9jKCkgewoJQChzdGF0aWMpIHNkbF9sb2dfY29udGV4dDogcnVudGltZS5Db250ZXh0CglzZGxfbG9nX2NvbnRleHQgPSBjb250ZXh0CglzZGxfbG9nX2NvbnRleHQubG9nZ2VyLm9wdGlvbnMgLT0gey5TaG9ydF9GaWxlX1BhdGgsIC5MaW5lLCAuUHJvY2VkdXJlfQoJc2RsLkxvZ1NldEFsbFByaW9yaXR5KC5WRVJCT1NFKQoJc2RsLkxvZ1NldE91dHB1dEZ1bmN0aW9uKHNkbF9sb2csICZzZGxfbG9nX2NvbnRleHQpCgoJc2RsX2Fzc2VydChzZGwuSW5pdCh7LlZJREVPfSkgPT0gMCkKCglzZGwuR0xfU2V0QXR0cmlidXRlKC5DT05URVhUX01BSk9SX1ZFUlNJT04sIDMpCglzZGwuR0xfU2V0QXR0cmlidXRlKC5DT05URVhUX01JTk9SX1ZFUlNJT04sIDMpCglzZGwuR0xfU2V0QXR0cmlidXRlKC5DT05URVhUX1BST0ZJTEVfTUFTSywgaTMyKHNkbC5HTHByb2ZpbGUuQ09SRSkpCgoJYXBwLndpbmRvdyA9IHNkbC5DcmVhdGVXaW5kb3coCgkJIldpbmRvdyIsCgkJc2RsLldJTkRPV1BPU19VTkRFRklORUQsCgkJc2RsLldJTkRPV1BPU19VTkRFRklORUQsCgkJU0NSRUVOX1dJRFRILAoJCVNDUkVFTl9IRUlHSFQsCgkJey5TSE9XTiwgLk9QRU5HTH0sCgkpOyBzZGxfYXNzZXJ0KGFwcC53aW5kb3cgIT0gbmlsKQoKCWFwcC5nbF9jb250ZXh0ID0gc2RsLkdMX0NyZWF0ZUNvbnRleHQoYXBwLndpbmRvdyk7IHNkbF9hc3NlcnQoYXBwLmdsX2NvbnRleHQgIT0gbmlsKQoKCWdsLmxvYWRfdXBfdG8oMywgMywgc2RsLmdsX3NldF9wcm9jX2FkZHJlc3MpCgoJZ2wuR2VuVmVydGV4QXJyYXlzKDEsICZhcHAudmFvKQoKCWdsLkVuYWJsZShnbC5CTEVORCkKCWdsLkJsZW5kRnVuYyhnbC5TUkNfQUxQSEEsIGdsLk9ORV9NSU5VU19TUkNfQUxQSEEpCgoJbG9nLmRlYnVnKCJJbml0aWFsaXppbmcgc2ltdWxhdGlvbi4uLiIpCgoJd29ybGRfZGVmIDo9IGIyLkRlZmF1bHRXb3JsZERlZigpCgl3b3JsZF9kZWYuZ3Jhdml0eSA9IHswLCAtOS44fQoJYXBwLndvcmxkX2lkID0gYjIuQ3JlYXRlV29ybGQod29ybGRfZGVmKQoKCWZsb29yX2JvZHlfZGVmIDo9IGIyLkRlZmF1bHRCb2R5RGVmKCkKCWZsb29yX2JvZHlfZGVmLnR5cGUgPSAuc3RhdGljQm9keQoJZmxvb3JfYm9keV9kZWYucG9zaXRpb24gPSB7MCwgLVdPUkxEX0hFSUdIVCAvIDIuMH0KCWZsb29yX2JvZHkgOj0gYjIuQ3JlYXRlQm9keShhcHAud29ybGRfaWQsIGZsb29yX2JvZHlfZGVmKQoJZmxvb3Jfc2hhcGVfZGVmIDo9IGIyLkRlZmF1bHRTaGFwZURlZigpCglmbG9vcl9wb2x5Z29uIDo9IGIyLk1ha2VCb3goV09STERfV0lEVEggLyAyLCAwLjEpCglmbG9vciA6PSBiMi5DcmVhdGVQb2x5Z29uU2hhcGUoZmxvb3JfYm9keSwgZmxvb3Jfc2hhcGVfZGVmLCBmbG9vcl9wb2x5Z29uKQoKCWNlaWxpbmdfYm9keV9kZWYgOj0gYjIuRGVmYXVsdEJvZHlEZWYoKQoJY2VpbGluZ19ib2R5X2RlZi50eXBlID0gLnN0YXRpY0JvZHkKCWNlaWxpbmdfYm9keV9kZWYucG9zaXRpb24gPSB7MCwgV09STERfSEVJR0hUIC8gMi4wfQoJY2VpbGluZ19ib2R5IDo9IGIyLkNyZWF0ZUJvZHkoYXBwLndvcmxkX2lkLCBjZWlsaW5nX2JvZHlfZGVmKQoJY2VpbGluZ19zaGFwZV9kZWYgOj0gYjIuRGVmYXVsdFNoYXBlRGVmKCkKCWNlaWxpbmdfcG9seWdvbiA6PSBiMi5NYWtlQm94KFdPUkxEX1dJRFRIIC8gMiwgMC4xKQoJY2VpbGluZyA6PSBiMi5DcmVhdGVQb2x5Z29uU2hhcGUoY2VpbGluZ19ib2R5LCBjZWlsaW5nX3NoYXBlX2RlZiwgY2VpbGluZ19wb2x5Z29uKQoKCWxlZnRfd2FsbF9ib2R5X2RlZiA6PSBiMi5EZWZhdWx0Qm9keURlZigpCglsZWZ0X3dhbGxfYm9keV9kZWYudHlwZSA9IC5zdGF0aWNCb2R5CglsZWZ0X3dhbGxfYm9keV9kZWYucG9zaXRpb24gPSB7LVdPUkxEX1dJRFRIIC8gMi4wLCAwfQoJbGVmdF93YWxsX2JvZHkgOj0gYjIuQ3JlYXRlQm9keShhcHAud29ybGRfaWQsIGxlZnRfd2FsbF9ib2R5X2RlZikKCWxlZnRfd2FsbF9zaGFwZV9kZWYgOj0gYjIuRGVmYXVsdFNoYXBlRGVmKCkKCWxlZnRfd2FsbF9wb2x5Z29uIDo9IGIyLk1ha2VCb3goMC4xLCBXT1JMRF9IRUlHSFQgLyAyLjApCglsZWZ0X3dhbGwgOj0gYjIuQ3JlYXRlUG9seWdvblNoYXBlKGxlZnRfd2FsbF9ib2R5LCBsZWZ0X3dhbGxfc2hhcGVfZGVmLCBsZWZ0X3dhbGxfcG9seWdvbikKCglyaWdodF93YWxsX2JvZHlfZGVmIDo9IGIyLkRlZmF1bHRCb2R5RGVmKCkKCXJpZ2h0X3dhbGxfYm9keV9kZWYudHlwZSA9IC5zdGF0aWNCb2R5CglyaWdodF93YWxsX2JvZHlfZGVmLnBvc2l0aW9uID0ge1dPUkxEX1dJRFRIIC8gMi4wLCAwfQoJcmlnaHRfd2FsbF9ib2R5IDo9IGIyLkNyZWF0ZUJvZHkoYXBwLndvcmxkX2lkLCByaWdodF93YWxsX2JvZHlfZGVmKQoJcmlnaHRfd2FsbF9zaGFwZV9kZWYgOj0gYjIuRGVmYXVsdFNoYXBlRGVmKCkKCXJpZ2h0X3dhbGxfcG9seWdvbiA6PSBiMi5NYWtlQm94KDAuMSwgV09STERfSEVJR0hUIC8gMi4wKQoJcmlnaHRfd2FsbCA6PSBiMi5DcmVhdGVQb2x5Z29uU2hhcGUocmlnaHRfd2FsbF9ib2R5LCByaWdodF93YWxsX3NoYXBlX2RlZiwgcmlnaHRfd2FsbF9wb2x5Z29uKQoKCWZvciBpIGluIDAgLi48IEJPRFlfQ09VTlQgewoJCWJvZHlfZGVmIDo9IGIyLkRlZmF1bHRCb2R5RGVmKCkKCQlib2R5X2RlZi50eXBlID0gLmR5bmFtaWNCb2R5CgkJYm9keV9kZWYucG9zaXRpb24gPSB7cmFuZC5mbG9hdDMyKCkgKiAyLjAgLSAxLjAsIHJhbmQuZmxvYXQzMigpICogMi4wIC0gMS4wfQoJCWFwcC5ib2RpZXNbaV0gPSBiMi5DcmVhdGVCb2R5KGFwcC53b3JsZF9pZCwgYm9keV9kZWYpCgoJCXNoYXBlX2RlZiA6PSBiMi5EZWZhdWx0U2hhcGVEZWYoKQoKCQljaXJjbGUgOj0gYjIuQ2lyY2xlIHsKCQkJY2VudGVyID0gezAsIDB9LAoJCQlyYWRpdXMgPSBNSU5fUkFESVVTICsgcmFuZC5mbG9hdDMyKCkgKiAoTUFYX1JBRElVUyAtIE1JTl9SQURJVVMpLAoJCX0KCQlhcHAuc2hhcGVzW2ldID0gYjIuQ3JlYXRlQ2lyY2xlU2hhcGUoYXBwLmJvZGllc1tpXSwgc2hhcGVfZGVmLCBjaXJjbGUpCgl9Cn0KCm1haW4gOjogcHJvYygpIHsKCWNvbnRleHQubG9nZ2VyID0gbG9nLmNyZWF0ZV9jb25zb2xlX2xvZ2dlcigpCgoJaW5pdCgpCgoJdmVydGV4IDo9IGNvbXBpbGVfc2hhZGVyKGdsLlZFUlRFWF9TSEFERVIsIHZlcnRleF9zb3VyY2UpCglmcmFnbWVudCA6PSBjb21waWxlX3NoYWRlcihnbC5GUkFHTUVOVF9TSEFERVIsIGZyYWdtZW50X3NvdXJjZSkKCglwcm9ncmFtIDo9IGdsLkNyZWF0ZVByb2dyYW0oKQoKCWdsLkF0dGFjaFNoYWRlcihwcm9ncmFtLCB2ZXJ0ZXgpCglnbC5BdHRhY2hTaGFkZXIocHJvZ3JhbSwgZnJhZ21lbnQpCgoJZ2wuTGlua1Byb2dyYW0ocHJvZ3JhbSkKCglnbC5EZWxldGVTaGFkZXIodmVydGV4KQoJZ2wuRGVsZXRlU2hhZGVyKGZyYWdtZW50KQoKCWJhbGxfbG9jYXRpb24gOj0gZ2wuR2V0VW5pZm9ybUxvY2F0aW9uKHByb2dyYW0sICJiYWxscyIpCglyYWRpaV9sb2NhdGlvbiA6PSBnbC5HZXRVbmlmb3JtTG9jYXRpb24ocHJvZ3JhbSwgInJhZGlpIikKCglldmVudDogc2RsLkV2ZW50CgoJZnBzX3RpbWVyIDo9IG5ld190aW1lcigpCgljYXBfdGltZXIgOj0gbmV3X3RpbWVyKCkKCgljb3VudGVkX2ZyYW1lcyA6PSB1MzIoMCkKCXN0YXJ0X3RpbWVyKCZmcHNfdGltZXIpCgoJbWFpbl9sb29wOiBmb3IgewoJCXN0YXJ0X3RpbWVyKCZjYXBfdGltZXIpCgoJCWZvciBzZGwuUG9sbEV2ZW50KCZldmVudCkgewoJCQkjcGFydGlhbCBzd2l0Y2ggZXZlbnQudHlwZSB7CgkJCWNhc2UgLlFVSVQ6CgkJCQlicmVhayBtYWluX2xvb3AKCQkJY2FzZSAuS0VZRE9XTjoKCQkJCSNwYXJ0aWFsIHN3aXRjaCBldmVudC5rZXkua2V5c3ltLnN5bSB7CgkJCQljYXNlIC5FU0NBUEU6CgkJCQkJYnJlYWsgbWFpbl9sb29wCgkJCQl9CgkJCWNhc2UgLk1PVVNFQlVUVE9ORE9XTjoKCQkJCWlmIGV2ZW50LmJ1dHRvbi5idXR0b24gPT0gc2RsLkJVVFRPTl9MRUZUIHsKCQkJCQlhcHAubW91c2VfZG93biA9IHRydWUKCQkJCX0KCQkJY2FzZSAuTU9VU0VCVVRUT05VUDoKCQkJCWlmIGV2ZW50LmJ1dHRvbi5idXR0b24gPT0gc2RsLkJVVFRPTl9MRUZUIHsKCQkJCQlhcHAubW91c2VfZG93biA9IGZhbHNlCgkJCQl9CgkJCWNhc2UgLk1PVVNFTU9USU9OOgoJCQkJbW91c2VfeCA6PSBmMzIoZXZlbnQubW90aW9uLngpCgkJCQltb3VzZV95IDo9IGYzMihldmVudC5tb3Rpb24ueSkKCgkJCQlhcHAubW91c2VfcG9zID0gewoJCQkJCShtb3VzZV94IC0gU0NSRUVOX1dJRFRIIC8gMikgLyBTQ0FMRSwKCQkJCQkoU0NSRUVOX0hFSUdIVCAvIDIgLSBtb3VzZV95KSAvIFNDQUxFLAoJCQkJfQoJCQl9CgkJfQoKCQlhdmdfZnBzIDo9IGYzMihjb3VudGVkX2ZyYW1lcykgLyAoZjMyKGdldF90aW1lKCZmcHNfdGltZXIpKSAvIDEwMDAuMCkKCQlpZiBhdmdfZnBzID4gMjAwMDAwMCB7CgkJCWF2Z19mcHMgPSAwCgkJfQoKCQlpZiBhcHAubW91c2VfZG93biB7CgkJCWZvciBib2R5IGluIGFwcC5ib2RpZXMgewoJCQkJcG9zaXRpb24gOj0gYjIuQm9keV9HZXRQb3NpdGlvbihib2R5KQoJCQkJZGlyZWN0aW9uIDo9IGFwcC5tb3VzZV9wb3MgLSBwb3NpdGlvbgoJCQkJZGlzdGFuY2UgOj0gYjIuTGVuZ3RoKGRpcmVjdGlvbikKCgkJCQlpZiBkaXN0YW5jZSA+IDAuMDEgewoJCQkJCWRpcmVjdGlvbiA9IGRpcmVjdGlvbiAvIGRpc3RhbmNlCgkJCQl9CgoJCQkJZm9yY2UgOj0gZGlyZWN0aW9uICogTU9VU0VfU1RSRU5HVEgKCgkJCQliMi5Cb2R5X0FwcGx5Rm9yY2VUb0NlbnRlcihib2R5LCBmb3JjZSwgdHJ1ZSkKCQkJfQoJCX0KCgkJYjIuV29ybGRfU3RlcChhcHAud29ybGRfaWQsIDEgLyBmMzIoU0NSRUVOX0ZQUyksIDQpCgoJCXBvc2l0aW9uczogW0JPRFlfQ09VTlRdWzJdZjMyCgkJcmFkaWk6IFtCT0RZX0NPVU5UXWYzMgoKCQlmb3Igc2hhcGUsIGkgaW4gYXBwLnNoYXBlcyB7CgkJCWJvZHkgOj0gYjIuU2hhcGVfR2V0Qm9keShzaGFwZSkKCQkJcG9zIDo9IGIyLkJvZHlfR2V0UG9zaXRpb24oYm9keSkKCgkJCXBvc2l0aW9uc1tpXSA9IHtwb3MueCAqIFNDQUxFICsgU0NSRUVOX1dJRFRIIC8gMiwgU0NSRUVOX0hFSUdIVCAvIDIgLSBwb3MueSAqIFNDQUxFfQoKCQkJcmFkaWlbaV0gPSBiMi5TaGFwZV9HZXRDaXJjbGUoc2hhcGUpLnJhZGl1cyAqIFNDQUxFCgkJfQoKCQlnbC5DbGVhcihnbC5DT0xPUl9CVUZGRVJfQklUKQoJCWdsLlZpZXdwb3J0KDAsIDAsIFNDUkVFTl9XSURUSCwgU0NSRUVOX0hFSUdIVCkKCQlnbC5DbGVhckNvbG9yKDAuMDUsIDAuMDUsIDAuMDUsIDEuMCkKCgkJZ2wuVXNlUHJvZ3JhbShwcm9ncmFtKQoKCQlnbC5Vbmlmb3JtMmZ2KGJhbGxfbG9jYXRpb24sIEJPRFlfQ09VTlQsICZwb3NpdGlvbnNbMF0ueCkKCQlnbC5Vbmlmb3JtMWZ2KHJhZGlpX2xvY2F0aW9uLCBCT0RZX0NPVU5ULCAmcmFkaWlbMF0pCgoJCWdsLkJpbmRWZXJ0ZXhBcnJheShhcHAudmFvKQoJCWdsLkRyYXdBcnJheXMoZ2wuVFJJQU5HTEVTLCAwLCAzKQoKCQlzZGwuR0xfU3dhcFdpbmRvdyhhcHAud2luZG93KQoJCWNvdW50ZWRfZnJhbWVzICs9IDEKCgkJZnJhbWVfdGlja3MgOj0gZ2V0X3RpbWUoJmNhcF90aW1lcikKCQlpZiBmcmFtZV90aWNrcyA8IFNDUkVFTl9USUNLU19QRVJfRlJBTUUgewoJCQlzZGwuRGVsYXkoU0NSRUVOX1RJQ0tTX1BFUl9GUkFNRSAtIGZyYW1lX3RpY2tzKQoJCX0KCX0KCglleGl0KCkKfQoKY29tcGlsZV9zaGFkZXIgOjogcHJvYyh0eXBlOiB1MzIsIHNvdXJjZTogc3RyaW5nKSAtPiB1MzIgewoJc2hhZGVyIDo9IGdsLkNyZWF0ZVNoYWRlcih0eXBlKQoKCWNzb3VyY2UgOj0gc3RyaW5ncy5jbG9uZV90b19jc3RyaW5nKHNvdXJjZSkKCglnbC5TaGFkZXJTb3VyY2Uoc2hhZGVyLCAxLCAmY3NvdXJjZSwgbmlsKQoKCWdsLkNvbXBpbGVTaGFkZXIoc2hhZGVyKQoKCXN1Y2Nlc3M6IGkzMgoJZ2wuR2V0U2hhZGVyaXYoc2hhZGVyLCBnbC5DT01QSUxFX1NUQVRVUywgJnN1Y2Nlc3MpCgoJaWYgc3VjY2VzcyA9PSAwIHsKCQlwYW5pYygiU2hhZGVyIGNvbXBpbGF0aW9uIGZhaWxlZCIpCgl9CglyZXR1cm4gc2hhZGVyCn0KCmV4aXQgOjogcHJvYygpIHsKCWxvZy5kZWJ1ZygiQ2xvc2luZy4uLiIpCgoJc2RsLkRlc3Ryb3lXaW5kb3coYXBwLndpbmRvdykKCWFwcC53aW5kb3cgPSBuaWwKCglzZGwuUXVpdCgpCgoJYjIuRGVzdHJveVdvcmxkKGFwcC53b3JsZF9pZCkKCWFwcC53b3JsZF9pZCA9IGIyLm51bGxXb3JsZElkCn0K",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEFAAAAAAAAAQUAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "shader.vert",
+			"settings":
+			{
+				"buffer_size": 193,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"lsp enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packai",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/code/odin/metaballs_2d"
+	],
+	"file_history":
+	[
+		"/D/code/odin/metaballs_2d/main.odin",
+		"/D/code/odin/metaballs_2d/shader.vert",
+		"/D/code/odin/metaballs_2d/shader.frag",
+		"/D/code/odin/metaballs_2d/realistic.frag",
+		"/C/odin/core/math/linalg/extended.odin",
+		"/C/odin/vendor/sdl2/sdl_video.odin",
+		"/D/code/odin/metaballs_2d/timer.odin",
+		"/C/odin/vendor/sdl2/sdl_render.odin",
+		"/C/odin/vendor/box2d/box2d.odin",
+		"/C/odin/vendor/sdl2/sdl_timer.odin",
+		"/C/odin/vendor/sdl2/image/sdl_image.odin",
+		"/D/code/odin/metaballs/vertex.slang",
+		"/D/code/odin/metaballs/fragment.slang",
+		"/D/code/odin/metaballs/justfile",
+		"/D/code/odin/metaballs/main.odin",
+		"/D/code/odin/metaballs/frag.spv",
+		"/D/code/odin/metaballs/frag.glsl",
+		"/D/code/odin/metaballs/vert.glsl",
+		"/D/code/odin/metaballs/metaballs.sublime-project",
+		"/D/code/odin/metaballs/common.odin",
+		"/D/code/odin/metaballs/math.odin",
+		"/C/odin/vendor/sdl3/sdl3_init.odin",
+		"/C/odin/vendor/sdl3/sdl3_main.odin",
+		"/D/code/odin/rendertoy/main.odin",
+		"/D/code/odin/rendertoy/README.md",
+		"/C/odin/vendor/vulkan/enums.odin",
+		"/D/code/odin/rendertoy/rendertoy.sublime-project"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"last_ticks",
+			")\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.odin",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6259,
+								6259
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".>#\"/:",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "odin"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///D:/code/odin/metaballs_2d/main.odin",
+							"show_definitions": false,
+							"syntax": "Packages/Odin/Odin.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3465.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "shader.vert",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///D:/code/odin/metaballs_2d/shader.vert",
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Odin",
+	"project": "metaballs_2d.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
